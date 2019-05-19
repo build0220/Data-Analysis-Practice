@@ -1,9 +1,9 @@
-Data Analysis Practice!
-1.Titanic
-2.Boston_Housing
-3.Finding_Donors
-4.Create_Customer_Segments
-5.Smart_Cab
-6.Image_Classification
-7.Dogs_VS_Cats
+Data Analysis Practice!</br>
+1.Titanic</br>
+2.Boston_Housing</br>
+3.Finding_Donors</br>
+4.Create_Customer_Segments</br>
+5.Smart_Cab</br>
+6.Image_Classification</br>
+7.Dogs_VS_Cats</br>
 8.Visualizations
